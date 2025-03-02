@@ -5,16 +5,16 @@ This repository contains a comprehensive collection of tool-use prompts for use 
 
 ## Table of Contents
 
-1. [Data & Analysis Tools](#data--analysis-tools)
-2. [News, Research & Educational Resources](#news-research--educational-resources)
-3. [Business, Market & Financial Analysis](#business-market--financial-analysis)
-4. [Customer Engagement, Marketing & Branding](#customer-engagement-marketing--branding)
-5. [Event, Travel & Cultural Planning](#event-travel--cultural-planning)
-6. [Health, Wellness & Lifestyle](#health-wellness--lifestyle)
-7. [Technology, Innovation & Digital Transformation](#technology-innovation--digital-transformation)
-8. [Legal, Environmental & Public Sector](#legal-environmental--public-sector)
-9. [HR, Corporate Strategy & Employee Engagement](#hr-corporate-strategy--employee-engagement)
-10. [Crisis & Risk Management](#crisis--risk-management)
+1. 🔍[Data & Analysis Tools](#data--analysis-tools)
+2. 📰[News, Research & Educational Resources](#news-research--educational-resources)
+3. 💲[Business, Market & Financial Analysis](#business-market--financial-analysis)
+4. 🫂[Customer Engagement, Marketing & Branding](#customer-engagement-marketing--branding)
+5. 🛩[Event, Travel & Cultural Planning](#event-travel--cultural-planning)
+6. 🏋‍♂️[Health, Wellness & Lifestyle](#health-wellness--lifestyle)
+7. 💻[Technology, Innovation & Digital Transformation](#technology-innovation--digital-transformation)
+8. 👩‍⚖️[Legal, Environmental & Public Sector](#legal-environmental--public-sector)
+9. 👔[HR, Corporate Strategy & Employee Engagement](#hr-corporate-strategy--employee-engagement)
+10. ⚠️🚨[Crisis & Risk Management](#crisis--risk-management)
 
 ---
 

@@ -1,4 +1,4 @@
-# Tool-Prompts Collection
+# 🔧Tool-Prompts Collection🔨🧰
 Julian A. Gonzalez, 2025
 
 This repository contains a comprehensive collection of tool-use prompts for use with LLMs. Each prompt (or “template”) is designed for a specific task—from data visualization to market research, from event planning to digital transformation. For quick reference, the templates have been grouped into categories based on their intended application.
